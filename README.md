@@ -61,4 +61,3 @@ Build a basic full-stack shopping cart app for Vibe Commerce screening. Handle a
 - **CORS** for cross-origin requests
 - **Express Validator** for input validation
 
-## 📁 Project Structure
